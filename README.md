@@ -1,0 +1,1 @@
+The Market Preference Survey Project is designed to gather insights into consumer preferences and trends. This project aims to help businesses understand market demands and make data-driven decisions.
